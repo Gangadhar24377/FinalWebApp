@@ -1,3 +1,3 @@
-**Web Interface for an Online Doctor Booking System.**
+**Web Interface forMedical Assitance System.**
 
 - Run index2.html
