@@ -1,3 +1,3 @@
-**Web Interface forMedical Assitance System.**
+**Web Interface for Medical Assitance System.**
 
 - Run index2.html
